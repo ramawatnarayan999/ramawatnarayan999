@@ -2,35 +2,34 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=500&color=8B949E&center=true&vCenter=true&width=420&lines=...+baa...+baa...+just+vibing+...;no+bugs%2C+just+sheep+%F0%9F%90%91" alt="Chill typing animation"/>
+<img src="./sheep.gif" width="500" alt="Running sheep animation"/>
+
+🐑 just a few sheep passing by...
+
+Hey, I'm Narayan 👋
+
+B.Tech CSE | Cybersecurity | Web Development
+
+Jaipur, Rajasthan, India 🇮🇳
 
 </div>
 
-       __       __       __
-      ( oo)    ( oo)    ( oo)
- /-----\/  /-----\/  /-----\
-/ |   ||  / |   ||  / |   ||
-*  ||--|| *  ||--|| *  ||--||
-   ^^  ^^    ^^  ^^    ^^  ^^
+A little about me
 
-      baa baa, just passing by...
+Hey! I'm Narayan Ramawat, a Computer Science student specializing in Cybersecurity.
 
-hey, i'm narayan 👋
+I enjoy coding, exploring web technologies, and learning how things work behind the scenes. I'm still growing as a developer, experimenting with new ideas, and building my skills one project at a time.
 
-I'm from Jaipur, India 🇮🇳, and I'm pursuing a B.Tech in Computer Science with a focus on Cybersecurity.
+🛠️ Tech I know
 
-I enjoy web development, work with C and Java, and I'm learning more about how software and systems work. Still exploring, still learning, and trying to build cool things along the way.
+<p> <img src="https://img.shields.io/badge/C-181717?style=flat-square&logo=c&logoColor=A8B9CC" alt="C"/> <img src="https://img.shields.io/badge/Java-181717?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/> <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=F05032" alt="Git"/> </p>
 
-🛠️ tools & technologies
-
-<p> <img src="https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Java-555?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/HTML5-555?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-555?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-555?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/Git-555?style=flat-square&logo=git&logoColor=white" alt="Git"/> </p>
-
-🔐 what i'm exploring
+🔐 What I'm exploring
 Cybersecurity fundamentals
 Web development
-Programming and problem-solving
-Building projects and learning by doing
-📊 my GitHub
+C and Java programming
+Building projects and improving problem-solving
+📊 GitHub stats
 
 <div align="center">
 
@@ -42,8 +41,15 @@ Building projects and learning by doing
 
 <div align="center">
 
-just a developer, a terminal, and a few sheep.
+  / \__
+ (    @\___
+ /         O
+/   (_____/
+/_____/   U
 
-baa.exe is running... 🐑
+...baa baa... keep coding...
 
-</div>
+
+Thanks for stopping by. Have a good one! ✌️
+
+</div>V
